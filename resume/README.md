@@ -3,11 +3,11 @@ Jens Van de Veire
 
 
 ---------------------------------------------
-veldeken 12
-Evergem 9940
-België
-jens.vandeveire@gmail.com
-jens.vandeveire1@student.arteveldehs.be
+veldeken 12 <br>
+Evergem 9940 <br>
+België <br>
+jens.vandeveire@gmail.com <br>
+jens.vandeveire1@student.arteveldehs.be <br>
 
 
 ----------------------------------------------
