@@ -7,7 +7,9 @@ veldeken 12
 Evergem 9940
 België
 jens.vandeveire@gmail.com
-jens.vandeveire1@student.arteveldehs.België
+jens.vandeveire1@student.arteveldehs.be
+
+
 ----------------------------------------------
 
 EDUCATION
