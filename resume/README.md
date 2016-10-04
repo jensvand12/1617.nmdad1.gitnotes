@@ -15,9 +15,9 @@ jens.vandeveire1@student.arteveldehs.be <br>
 EDUCATION
 =========
 
-2007-2014
+- 2007-2014
 : wiskunde-wetenschappen 8, Edugo campus de Toren Oostakker
 
-2015-2018(verwacht)
+- 2015-2018(verwacht)
 : Grafische en digitale Media - Multimediaproductie - Produce , Artevelde Hogeschool, Mariakerke
 
