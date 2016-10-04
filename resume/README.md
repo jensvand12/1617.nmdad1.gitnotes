@@ -1,6 +1,6 @@
 Jens Van de Veire
 =================
-![profielfoto](http://link)
+![profielfoto](/images/profiel)
 
 ---------------------------------------------
 veldeken 12 <br>
